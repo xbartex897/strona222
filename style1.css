@@ -1,0 +1,29 @@
+body{
+    background-color: pink;
+}
+.tekst1{
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    font-family: Impact;
+    position: absolute; left: 400px; top: 200px;
+    text-align: center;
+}
+.zdj1{
+    width: 100px;
+    height: 100px;
+    position: absolute; left: 435px; top: 270px;
+}
+.tekst2{
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    position: absolute; left: 700px; top: 200px;
+    font-family: Impact;
+    text-align: center;
+}
+.zdj2{
+    width: 100px;
+    height: 100px;
+    position: absolute; left: 735px; top: 270px;
+}
